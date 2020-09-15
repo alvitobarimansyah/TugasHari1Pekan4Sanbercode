@@ -28,7 +28,7 @@ Jawab : 1. pilih model atau algoritma yang akan digunakan
         5. applikasikan model ke dalam test data dengan menggunakan method .predict() untuk supervised learning atau
             .transform() untuk unsupervised learning
 
-# soal no 2 atas
+# soal no 2 
 
 from sklearn.tree import DecisionTreeRegressor
 import matplotlib.pyplot as plt
