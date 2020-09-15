@@ -58,4 +58,4 @@ ax.set_xlabel('X-Value')
 ax.set_ylabel('Y-Value')
 plt.legend()
 plt.show()
-tree.plot_tree(model_dtr)
+tree.plot_tree(model_dtr);
